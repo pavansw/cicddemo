@@ -1,1 +1,1 @@
-pritn ("This is Pavan, developer for UI")
+print ("This is Pavan, developer for UI")
